@@ -1,0 +1,30 @@
+.left-form{
+    -fx-background-color:#2d5c70;
+    -fx-border-color:#000;
+
+    -fx-border-width:.4px 0px .4px .4px;
+}
+#con{
+    -fx-color:#02751b;
+}
+.close{
+    -fx-background-color:transparent;
+    -fx-cursor:hand;
+}
+.close:hover{
+    -fx-background-color:#ff3547;
+}
+#AN1{
+    -fx-min-width:400px;
+    -fx-min-height:500px;
+    -fx-max-height:400px;
+    -fx-max-width:500px;
+    -fx-resizable: false;
+}
+#Stack{
+    -fx-min-width:400px;
+    -fx-min-height:500px;
+    -fx-max-height:400px;
+    -fx-max-width:500px;
+    -fx-resizable: false;
+}
